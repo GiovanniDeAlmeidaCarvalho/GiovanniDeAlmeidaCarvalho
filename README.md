@@ -5,5 +5,5 @@
 -->
 
 <div align="center">
-    <img height='160em' src='https://github-readme-stats-git-master-GiovanniDeAlmeidaCarvalho.vercel.app/api/top-langs/?username=GiovanniDeAlmeidaCarvalho&layout=compact&theme=tokyonight'>
+    <img height='160em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniDeAlmeidaCarvalho'>
 </div>
