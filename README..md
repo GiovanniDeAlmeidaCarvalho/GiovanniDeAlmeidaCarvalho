@@ -1,4 +1,4 @@
-### Welcome! I'm Giovanni 
+### Welcome! I'm Giovanni 💫
 
 <!--c-->
 
