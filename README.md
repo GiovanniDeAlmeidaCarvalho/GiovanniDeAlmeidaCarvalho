@@ -8,7 +8,7 @@
 ### Conecte-se comigo
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:giovanni122carvalho@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/giovannicarvxlho/)
-[![DIO](https://img.shields.io/badge/-Perfil%20DIO-932ED1?style=for-the-badge)](https://web.dio.me/users/giovannidecarvalho17)
+[![DIO](https://img.shields.io/badge/-Perfil%20DIO-932ED1?style=for-the-badge)](https://www.dio.me/users/giovannicarvalho17)
 
 ## 🛠 &nbsp;Tech Stack
 
