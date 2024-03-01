@@ -15,7 +15,7 @@
 ### 👩‍💻 &nbsp;Back-End
 
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=53D9A2)&nbsp;
-![C#](https://img.shields.io/badge/C#-000?style=for-the-badge&logo=csharp&logoColor=1572B6)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=1572B6)&nbsp;
